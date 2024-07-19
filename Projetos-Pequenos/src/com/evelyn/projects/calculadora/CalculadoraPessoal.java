@@ -17,64 +17,67 @@ public class CalculadoraPessoal {
     System.out.println("============================================================================\n");
 
     System.out.println(">> Escolha o que deseja fazer com os números[escreva a ação]:\n\n(Soma)[+]    (Subtração)[-]    (Multiplicação)[*]    (Divisão)[/]");
-    String opcao = input.nextLine();
+    String opcao = input.next().toLowerCase();
 
     System.out.println("============================================================================\n");
 
 
 
-    // System.out.print(">> Você digitou o símbolo da operação?[S/N] ");
-    // char escolha = input.next().toLowerCase().charAt(0);
+    System.out.print(">> Você digitou o símbolo da operação?[S/N] ");
+    char escolha = input.next().toLowerCase().charAt(0);
 
-    // System.out.println("============================================================================\n");
-    // if(escolha == 's'){
+    System.out.println("============================================================================\n");
+    if(escolha == 's'){
 
-    //   switch(opcao){
+      switch(opcao){
 
-    //     case "+":
-    //       System.out.println("\n" + num1  + " + " + num2 + " = " + (num1 + num2));
-    //       break;
+        case "+":
+          System.out.println("\n" + num1  + " + " + num2 + " = " + (num1 + num2));
+          break;
 
-    //     case "-":
-    //         System.out.println("\n" + num1 + " - " + num2 + " = " + (num1 - num2));
-    //         break;  
+        case "-":
+            System.out.println("\n" + num1 + " - " + num2 + " = " + (num1 - num2));
+            break;  
 
-    //     case "*":
-    //         System.out.println("\n" + num1 + " x " + num2 + " = " + (num1 * num2));
-    //         break;
+        case "*":
+            System.out.println("\n" + num1 + " x " + num2 + " = " + (num1 * num2));
+            break;
           
-    //     case "/":
-    //       System.out.println("\n" + num1 + " / " + num2 + " = " + (num1/num2));
-    //       break;
+        case "/":
+          System.out.println("\n" + num1 + " / " + num2 + " = " + (num1/num2));
+          break;
 
-    //     default:
-    //         System.out.println("\nError: <Por favor, escolha uma opção válida>");
-    //   }
-    // } else {
+        default:
+            System.out.println("\nError: <Por favor, escolha uma opção válida>");
+      }
+    } else {
 
-    //     switch(opcao){
+        switch(opcao){
 
-    //       case "soma":
-    //         System.out.println("\n" + num1  + " + " + num2 + " = " + (num1 + num2));
-    //         break;
+          case "soma":
+            System.out.println("\n" + num1  + " + " + num2 + " = " + (num1 + num2));
+            break;
 
-    //       case "subtração":
-    //         System.out.println("\n" + num1 + " - " + num2 + " = " + (num1 - num2));
-    //         break;
+          case "subtração":
+          case "subtracao":
+            System.out.println("\n" + num1 + " - " + num2 + " = " + (num1 - num2));
+            break;
 
-    //       case "multiplicação":
-    //         System.out.println("\n" + num1 + " x " + num2 + " = " + (num1 * num2));
-    //         break;
+          case "multiplicação":
+          case "multiplicacao":
+            System.out.println("\n" + num1 + " x " + num2 + " = " + (num1 * num2));
+            break;
 
-    //       case "divisão":
-    //         System.out.println("\n" + num1 + " / " + num2 + " = " + (num1/num2));
-    //         break;
+          case "divisão":
+          case "divisao":
+            System.out.println("\n" + num1 + " / " + num2 + " = " + (num1/num2));
+            break;
 
-    //       default:
-    //         System.out.println("\nError: <Por favor, escolha uma opção válida>");
-    //     }
+          default:
+            System.out.println("\nError: <Por favor, escolha uma opção válida>");
+        }
 
-    // }   
+    }   
 
     System.out.println("\nEncerrando...\n");
   }
