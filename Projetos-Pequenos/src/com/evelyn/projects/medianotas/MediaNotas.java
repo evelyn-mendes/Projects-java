@@ -1,5 +1,4 @@
 /*
- * Main Class
  * Author: Evelyn
  * Date: 16/07/2024
  * Language: Java
