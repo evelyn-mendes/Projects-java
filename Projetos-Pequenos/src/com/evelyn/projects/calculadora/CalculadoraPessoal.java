@@ -1,3 +1,10 @@
+/*
+ * Author: Evelyn
+ * Date: 16/07/2024
+ * Language: Java
+ * Description: Programa para ler dois números, e fazer alguma operação aritmética escolhida pelo usuário.
+ */
+
 package com.evelyn.projects.calculadora;
 
 import java.util.Scanner;
