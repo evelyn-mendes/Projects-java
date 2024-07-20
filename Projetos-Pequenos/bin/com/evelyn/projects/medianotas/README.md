@@ -3,7 +3,7 @@
 <br>
 
 # 📖 Sobre
-A aplicação armazena a quantidade de notas, às notas, digitadas pelo usuário, e após, realiza média aritmética e imprime à média na tela. Foi feita apenas utilizando a `linguagem java` e a IDE `vscode`.
+A aplicação armazena a quantidade de notas, às notas digitadas pelo usuário e, em seguida, calcula a média aritmética e imprime à média na tela. Foi feita apenas utilizando a `linguagem java` e a IDE `vscode`.
 
 <br>
 

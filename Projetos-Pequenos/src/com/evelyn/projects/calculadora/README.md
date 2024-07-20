@@ -7,7 +7,7 @@ Essa aplicação armazena dois números, e é possível realizar algumas operaç
 
 # 📚 Intrudução de Instalação
 
-## Pré-requisitos
+## 📋 Pré-requisitos
 - [JDK 21.0.2](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
 
 <br>
@@ -60,7 +60,7 @@ This application stores two numbers, and with them you can perform some arithmet
 
 <br>
 
-# 📚 Installation Intruction
+# 📚 Installation Instruction
 
 ## 📋 Prerequisites
 
@@ -69,10 +69,10 @@ This application stores two numbers, and with them you can perform some arithmet
 <br>
 
 # 👩‍💻 Technologies Used
-- Java - version: 21.0.2.
+- Java - Version: 21.0.2.
 
 ### ❗❗ ATTENTION
-You don't just have to use Visual Studio Code, you can use othres IDE's. Example: [IntelliJ](https://lp.jetbrains.com/intellij-idea-features-promo/?source=google&medium=cpc&campaign=AMER_en_BR_IDEA_Branded&term=intellij&content=693349187724&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP673F8TA-JX7HkziM3Bx9X35teYxXtzL45KqeaU1BCZYotVjb4yVGYaAr8sEALw_wcB), [Eclipse](https://www.eclipse.org/downloads/), [Netbeans](https://netbeans.apache.org/front/main/download/nb22/), etc.
+You don't just have to use Visual Studio Code, you can use others IDE's. Example: [IntelliJ](https://lp.jetbrains.com/intellij-idea-features-promo/?source=google&medium=cpc&campaign=AMER_en_BR_IDEA_Branded&term=intellij&content=693349187724&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP673F8TA-JX7HkziM3Bx9X35teYxXtzL45KqeaU1BCZYotVjb4yVGYaAr8sEALw_wcB), [Eclipse](https://www.eclipse.org/downloads/), [Netbeans](https://netbeans.apache.org/front/main/download/nb22/), etc.
 
 <br>
 
@@ -92,7 +92,7 @@ The worspace contains two folders by default, where:
 - `src`: the folder to maintain sources.
 - `lib`: the folder to maintain dependencies.
 
-Meanwhile, the compiled output files will be generate in the `bin` folder by default.
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
 > If you want to customize the folder, open `.vscode/settings.json` and update the related settings there.
 

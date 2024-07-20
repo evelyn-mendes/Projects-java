@@ -3,7 +3,7 @@
  * Author: Evelyn
  * Date: 16/07/2024
  * Language: Java
- * Description: Programa para ler a quantidade de notas, às notas, e imprimir a média entre elas.
+ * Description: Programa para ler a quantidade de notas, às notas digitadas pelo usuário e, em seguida, calcula a média aritmética das notas
  */
 
 package com.evelyn.projects.medianotas;

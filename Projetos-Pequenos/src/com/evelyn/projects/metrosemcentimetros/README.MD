@@ -1,18 +1,19 @@
-# ☕ Personal Calculator(Calculadora Pessoal)
+# ☕ Conversion from Meters to Centimeters (Conversor de Metros para Centímetros)
 
 # 📖 Sobre
-Essa aplicação armazena dois números, e é possível realizar algumas operações aritiméticas com esses números. Foi feita apenas utilizando a `linguagem java` e a IDE `vscode`.
+
+Está aplicação armazena uma medida em metros e converte para centímetros, após imprime na tela. Foi feita apenas utilizando a `linguagem java` e a IDE `vscode`.
 
 <br>
 
-# 📚 Intrudução de Instalação
+# Instrução de Instalação
 
-## 📋 Pré-requisitos
+## Pré-requisitos
 - [JDK 21.0.2](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
 
-<br>
 
 # 👩‍💻 Tecnologias Utilizadas
+
 - Java - Versão: 21.0.2.
 - Para a criação do aplicativo: [Visual Studio Code](https://code.visualstudio.com/).
 
@@ -31,7 +32,6 @@ Você não precisa apenas utilizar o Visual Studio Code, você pode utilizar out
 
 <br>
 
-
 # 🛠 Estrutura de Pasta
 
 No workspace contém duas pastas por padrão, onde:
@@ -47,8 +47,9 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 
 
+
 <details>
-    <summary>
+    <summmary>
         <h2>
             In English
         <h2>
@@ -56,7 +57,7 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 # 📖 About
 
-This application stores two numbers, and with them you can perform some arithmetic operations. It was made using the `java language` and the `vscode` IDE.
+This application stores one measure in meters and converts it to centimeters, then print it on the screen. It was made using the `language java` and the `vscode` IDE. 
 
 <br>
 
@@ -68,7 +69,7 @@ This application stores two numbers, and with them you can perform some arithmet
 
 <br>
 
-# 👩‍💻 Technologies Used
+# 👩‍💻 Tecnologies Used
 - Java - Version: 21.0.2.
 
 ### ❗❗ ATTENTION
