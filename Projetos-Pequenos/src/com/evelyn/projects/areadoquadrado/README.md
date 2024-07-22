@@ -1,12 +1,9 @@
-# ☕ Sum two Numbers(Somar dois números)
+# ☕ Area of the Square(Área do Quadrado)
 
 ## 📖 Sobre
-
-Está aplicação armazena dois números, e com eles realiza uma adição, e após imprime na tela a soma. Foi feita apenas utilizando a `linguagem java` e a IDE `vscode`.
+Está aplicação armazena a base e a altura de um quadrado, e calcula a área e o dobro da mesma. Foi feito utilizando apenas a `linguagem java` e a IDE `vscode`.
 
 <br>
-
-## 📚 Instrução de Instalação
 
 ## 📋 Pré-requisitos
 - [JDK 21.0.2](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
@@ -44,21 +41,25 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 > Se você quer customizar a pasta, abra `.vscode/settings.json` e atualize as configurações relacionadas lá
 
-<hr>
+<br>
+
+
+
+
 
 
 
 
 <details>
-    <summmary>
+    <summary>
         <h2>
             In English
-        <h2>
+        </h2>
     </summary>
 
 ## 📖 About
 
-This application stores two numbers, perform a sum, and then prints the sum. It was made using the `java language` and the `vscode` IDE.
+This application stores the height and base of a square, calculates the area, and then doubles it. It was made just using `language java` and the `vscode` IDE.
 
 <br>
 

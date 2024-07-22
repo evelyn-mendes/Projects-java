@@ -1,12 +1,9 @@
-# ☕ Sum two Numbers(Somar dois números)
+# ☕ Converter of Fahrenheit to Celsius (Conversor de Fahrenheit para Celsius)
 
 ## 📖 Sobre
-
-Está aplicação armazena dois números, e com eles realiza uma adição, e após imprime na tela a soma. Foi feita apenas utilizando a `linguagem java` e a IDE `vscode`.
+Está aplicação armazena uma temperatura em fahrenheit e a converte para celsius. Foi feito utilizando apenas a `linguagem java` e a IDE `vscode`.
 
 <br>
-
-## 📚 Instrução de Instalação
 
 ## 📋 Pré-requisitos
 - [JDK 21.0.2](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
@@ -44,21 +41,22 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 > Se você quer customizar a pasta, abra `.vscode/settings.json` e atualize as configurações relacionadas lá
 
-<hr>
+<br>
+
+
 
 
 
 
 <details>
-    <summmary>
+    <summary>
         <h2>
             In English
-        <h2>
+        </h2>
     </summary>
 
 ## 📖 About
-
-This application stores two numbers, perform a sum, and then prints the sum. It was made using the `java language` and the `vscode` IDE.
+This application stores a temperature in fahrenheit and convert for to celsius. It was made using the `language java` and `vscode` IDE.
 
 <br>
 

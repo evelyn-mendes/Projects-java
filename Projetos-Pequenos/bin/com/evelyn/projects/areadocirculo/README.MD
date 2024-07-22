@@ -1,18 +1,18 @@
 # ☕ Area of the Circle (Área do Círculo)
 
-# 📚 Sobre
+## 📚 Sobre
 Está aplicação armazena o raio de um círculo, e calcula sua área, e após imprime na tela. Foi feito utilizando apenas a `linguagem java` e a IDE `vscode`.
 
 <br>
 
-# 📚 Introdução de Instalação
+## 📚 Instrução de Instalação
 
 ## 📋 Pré-requisitos
 - [JDK 21.0.2](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
 
 <br>
 
-# 👩‍💻 Tecnologias Utilizadas
+## 👩‍💻 Tecnologias Utilizadas
 
 - Java - Versão: 21.0.2.
 - Para a criação do aplicativo: [Visual Studio Code](https://code.visualstudio.com/).
@@ -22,7 +22,7 @@ Você não precisa apenas utilizar o Visual Studio Code, você pode utilizar out
 
 <br>
 
-# ❓ Como Contribuir
+## ❓ Como Contribuir
 
 ``` bash
     # Clone o projeto
@@ -32,7 +32,7 @@ Você não precisa apenas utilizar o Visual Studio Code, você pode utilizar out
 
 <br>
 
-# 🛠 Estrutura de Pasta
+## 🛠 Estrutura de Pasta
 
 No workspace contém duas pastas por padrão, onde:
 
@@ -55,13 +55,13 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
         <h2>
     </summary>
 
-# 📖 About
+## 📖 About
 
 This application stores the radius of a circle, and calculate your area, and then prints it on screen. It was made using the `language java` and the `vscode` IDE. 
 
 <br>
 
-# 📚 Installation Instruction
+## 📚 Installation Instruction
 
 ## 📋 Prerequisites
 
@@ -69,7 +69,7 @@ This application stores the radius of a circle, and calculate your area, and the
 
 <br>
 
-# 👩‍💻 Tecnologies Used
+## 👩‍💻 Tecnologies Used
 - Java - Version: 21.0.2.
 
 ### ❗❗ ATTENTION
@@ -77,7 +77,7 @@ You don't just have to use Visual Studio Code, you can use others IDE's. Example
 
 <br>
 
-# ❓ How Contribute
+## ❓ How Contribute
 ``` bash
     # Clone the project
     $ git clone https://github.com/evelyn-mendes/Projects-java.git
@@ -86,7 +86,7 @@ You don't just have to use Visual Studio Code, you can use others IDE's. Example
 
 <br>
 
-# 🛠 Folder Structure
+## 🛠 Folder Structure
 
 The worspace contains two folders by default, where:
 
