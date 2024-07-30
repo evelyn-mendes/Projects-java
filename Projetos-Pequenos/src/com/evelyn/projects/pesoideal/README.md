@@ -1,8 +1,7 @@
-# ☕ Converter of Celsius to Fahrenheit(Conversor de Celsius para Fahrenheit)
+# ☕ Ideal weight(Peso ideal)
 
 ## 📖 Sobre
-Está aplicação armazena uma temperatura em celsius e a converte para fahrenheit. Foi feita utilizando apenas a `linguagem java` e a IDE `vscode`.
-
+Está aplicação armazena uma medida de altura, e imprime o peso ideal conforme a altura. Foi feita utilizando apenas a `linguagem java` e a IDE `vscode`.
 
 <br>
 
@@ -44,6 +43,15 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 <br>
 
+## ⚠️ Problemas Encontrados
+### Problema:
+- Ao colocar o ponto para colocar a altura ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
+### Solução:
+- Apenas troque o ponto por `vírgula`.
+
+<br>
+
+
 
 
 
@@ -54,8 +62,9 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
         </h2>
     </summary>
 
+
 ## 📖 About
-This application stores temperature in celsius and converts it to fahrenheit. It was made using the `language java` and the `vscode` IDE.
+This application stores a measurement of height, and prints the ideal weight according to height. It was made using the `linguagem java` and the `vscode` IDE.
 
 
 <br>
@@ -96,6 +105,14 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 > If you want to customize the folder, open `.vscode/settings.json` and update the related settings there.
 
+<br>
+
+## ⚠️ Problem Faced
+### Problem:
+- An error occurred when placing the point to set the height, this may be due to regional settings.
+### Resolution:
+- Just change the period to a `comma`.
+
 </details>
 
 <br>
@@ -123,3 +140,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+

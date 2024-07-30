@@ -1,7 +1,7 @@
 # ☕ Converter of Celsius to Fahrenheit(Conversor de Celsius para Fahrenheit)
 
 ## 📖 Sobre
-Está aplicação armazena uma temperatura em celsius e a converte para fahrenheit. Foi feita utilizando apenas a `linguage java` e a IDE `vscode`.
+Está aplicação armazena uma temperatura em celsius e a converte para fahrenheit. Foi feita utilizando apenas a `linguagem java` e a IDE `vscode`.
 
 
 <br>
@@ -13,7 +13,7 @@ Está aplicação armazena uma temperatura em celsius e a converte para fahrenhe
 
 ## 👩‍💻 Tecnologias Utilizadas
 
-- Java - Versão: 21.0.2.
+- Java - Versão: 21.0.2.p
 - Para a criação do aplicativo: [Visual Studio Code](https://code.visualstudio.com/).
 
 ### ❗❗ ATENÇÃO
@@ -54,7 +54,7 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
         </h2>
     </summary>
 
-## 📖 Sobre
+## 📖 About
 This application stores temperature in celsius and converts it to fahrenheit. It was made using the `language java` and the `vscode` IDE.
 
 

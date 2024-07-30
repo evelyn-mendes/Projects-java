@@ -1,3 +1,10 @@
+/*
+ * Author: Evelyn
+ * Date: 16/07/2024
+ * Language: Java
+ * Description: É um programa que armazena a temperatura em celsius, e a converte para fahrenheit
+ */
+
 package com.evelyn.projects.celsiusparafahrenheit;
 
 import java.util.Scanner;
