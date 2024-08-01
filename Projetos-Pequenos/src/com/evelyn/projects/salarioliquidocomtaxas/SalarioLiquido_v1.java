@@ -9,7 +9,7 @@ package com.evelyn.projects.salarioliquidocomtaxas;
 
 import java.util.Scanner;
 
-public class SalarioLiquido {
+public class SalarioLiquido_v1 {
     
     public static void main(String[] args) {
         
@@ -34,8 +34,8 @@ public class SalarioLiquido {
 
         System.out.printf(">> Seu salário bruto é: R$%.2f\n", salarioBruto);
         System.out.printf(">> O valor do INSS é: R$%.2f\n", inss);
-        System.out.printf(">> O valor do sindicato é: R$%.2f\n", sindicato);
-        System.out.printf(">> O valor do imposto de renda é: R$%.2f\n", ir);
+        System.out.printf(">> O valor do Sindicato é: R$%.2f\n", sindicato);
+        System.out.printf(">> O valor do Imposto de Renda é: R$%.2f\n", ir);
         System.out.printf(">> Seu salário líquido é: R$%.2f\n\n", salarioLiquido);
     }
 }

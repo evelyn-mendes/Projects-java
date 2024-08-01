@@ -45,6 +45,7 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 <hr>
 
+<br>
 
 
 <details>

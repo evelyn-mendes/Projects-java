@@ -41,6 +41,8 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 > Se você quer customizar a pasta, abra `.vscode/settings.json` e atualize as configurações relacionadas lá
 
+<hr>
+
 <br>
 
 
