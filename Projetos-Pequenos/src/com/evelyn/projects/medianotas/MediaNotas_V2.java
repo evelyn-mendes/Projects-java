@@ -13,7 +13,7 @@ public class MediaNotas_V2{
 
     public static void main(String[] args) {
         
-        System.out.println("============ Aprovação/Reprovação ============\n");
+        System.out.println("============ Média e Situação ============\n");
 
         Scanner input = new Scanner(System.in);
       

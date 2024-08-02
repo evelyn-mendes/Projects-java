@@ -8,7 +8,7 @@
 package com.evelyn.projects.medianotas;
 import java.util.Scanner;
 
-public class MediaNotas{
+public class MediaNotas_V1{
 
     public static void main(String[] args){
 
