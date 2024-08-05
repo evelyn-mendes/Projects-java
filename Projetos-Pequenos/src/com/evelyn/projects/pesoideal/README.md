@@ -108,8 +108,10 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 <br>
 
 ## ⚠️ Problem Faced
+
 ### Problem:
 - An error occurred when placing the point to set the height, this may be due to regional settings.
+
 ### Resolution:
 - Just change the period to a `comma`.
 

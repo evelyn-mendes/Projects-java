@@ -41,6 +41,16 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 > Se você quer customizar a pasta, abra `.vscode/settings.json` e atualize as configurações relacionadas lá
 
+<br>
+
+## ⚠️ Problemas Encontrados
+
+### Problema:
+- Ao colocar o ponto para colocar a altura ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
+
+### Solução:
+- Apenas troque o ponto por `vírgula`.
+
 <hr>
 
 <br>
@@ -61,7 +71,7 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 ## 📖 About
 
-This application stores the height and base of a square, calculates the area, and then doubles it. It was made just using `language java` and the `vscode` IDE.
+This application stores the height and base of a square, calculates the area, and then doubles it. It was made just using `language java` and the IDE `vscode`.
 
 <br>
 
@@ -100,6 +110,16 @@ The worspace contains two folders by default, where:
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
 > If you want to customize the folder, open `.vscode/settings.json` and update the related settings there.
+
+<br>
+
+## ⚠️ Problems Faced
+
+### Problem: 
+- An error occurred when placing the point to set the height, this may be due to regional settings.
+
+### Resolution:
+- Just change the period to a `comma`.
 
 </details>
 
