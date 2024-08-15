@@ -2,7 +2,7 @@
 * Author: Evelyn
 * Date: 22/07/2024
 * Language: Java
-* Descrition: É um programa que armazena o ano do sistema ou um ano escolhido pelo usuário, e após imprime se o ano é bissexto
+* Description: É um programa que armazena o ano do sistema ou um ano escolhido pelo usuário, e após imprime se o ano é bissexto
 */
 
 package com.evelyn.projects.anobissexto;
