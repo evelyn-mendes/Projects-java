@@ -1,7 +1,7 @@
 # ☕ Area of the Circle (Área do Círculo)
 
 ## 📚 Sobre
-Está aplicação armazena o raio de um círculo, e calcula sua área, e após imprime na tela. Foi feito utilizando apenas a `linguagem java` e a IDE `vscode`.
+Esta aplicação armazena o raio de um círculo, calcula sua área e após imprime na tela. Foi feito utilizando apenas a `linguagem java` e a IDE `vscode`.
 
 <br>
 
@@ -45,10 +45,10 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 <br>
 
-## ⚠️ Problemas Encontrados
+## ⚠️ Problema Encontrado
 
 ### Problema:
-- Ao colocar o ponto para colocar a altura ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
+- Ao colocar o ponto para colocar a altura, ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
 
 ### Solução:
 - Apenas troque o ponto por `vírgula`.
@@ -67,7 +67,7 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 ## 📖 About
 
-This application stores the radius of a circle, calculates your area, and then prints it on screen. It was made using the `language java` and the IDE `vscode`. 
+This application stores the radius of a circle, calculates your area, and then prints it on screen. It was made using the `language java` and the `vscode` IDE. 
 
 <br>
 
@@ -109,7 +109,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 <br>
 
-## ⚠️ Problems Faced
+## ⚠️ Problem Found
 
 ### Problem:
 - An error occurred when placing the point to set the height, this may be due to regional settings.
