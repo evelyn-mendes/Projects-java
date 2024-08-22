@@ -43,6 +43,14 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 > Se você quer customizar a pasta, abra `.vscode/settings.json` e atualize as configurações relacionadas lá
 
+## ⚠️ Problema Encontrado
+
+### Problema:
+- Ao colocar o ponto para colocar a altura, ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
+
+### Solução:
+- Apenas troque o ponto por `vírgula`.
+
 <hr>
 
 <br>
@@ -60,7 +68,7 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
     </summary>
 
 ## 📖 About
-This application stores a temperature in fahrenheit and convert for to celsius. It was made using the `language java` and the IDE `vscode`.
+This application stores a temperature in fahrenheit and converts it to celsius. It was made using the `language java` and the `vscode` IDE.
 
 <br>
 
@@ -91,7 +99,7 @@ You don't just have to use Visual Studio Code, you can use others IDE's. Example
 
 ## 🛠 Folder Structure
 
-The worspace contains two folders by default, where:
+The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources.
 - `lib`: the folder to maintain dependencies.
@@ -99,6 +107,14 @@ The worspace contains two folders by default, where:
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
 > If you want to customize the folder, open `.vscode/settings.json` and update the related settings there.
+
+## ⚠️ Problem Found
+
+### Problem:
+- An error occurred when placing the point to set the height, this may be due to regional settings.
+
+### Solution:
+- Just change the period to a `comma`. 
 
 </details>
 
