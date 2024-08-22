@@ -1,7 +1,7 @@
 # ☕ Area of the Square(Área do Quadrado)
 
 ## 📖 Sobre
-Está aplicação armazena a base e a altura de um quadrado, e calcula a área e o dobro da mesma. Foi feito utilizando apenas a `linguagem java` e a IDE `vscode`.
+Esta aplicação armazena a base e a altura de um quadrado e calcula a área e o dobro da mesma, e após imprime ambos os resultados. Foi feito utilizando apenas a `linguagem java` e a IDE `vscode`.
 
 <br>
 
@@ -43,10 +43,10 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 <br>
 
-## ⚠️ Problemas Encontrados
+## ⚠️ Problema Encontrado
 
 ### Problema:
-- Ao colocar o ponto para colocar a altura ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
+- Ao colocar o ponto para colocar a altura, ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
 
 ### Solução:
 - Apenas troque o ponto por `vírgula`.
@@ -71,7 +71,7 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 ## 📖 About
 
-This application stores the height and base of a square, calculates the area, and then doubles it. It was made just using `language java` and the IDE `vscode`.
+This application stores the height and base of a square, calculates the area and doubles it, and then prints both results. It was made just using `language java` and the `vscode` IDE.
 
 <br>
 
@@ -102,7 +102,7 @@ You don't just have to use Visual Studio Code, you can use others IDE's. Example
 
 ## 🛠 Folder Structure
 
-The worspace contains two folders by default, where:
+The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources.
 - `lib`: the folder to maintain dependencies.
@@ -113,7 +113,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 <br>
 
-## ⚠️ Problems Faced
+## ⚠️ Problem Found
 
 ### Problem: 
 - An error occurred when placing the point to set the height, this may be due to regional settings.
