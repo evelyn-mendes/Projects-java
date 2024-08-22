@@ -1,9 +1,9 @@
-# ☕ Arithmetic Avarage(Média Aritmética)
+# ☕ Arithmetic Avarage (Média Aritmética)
 
 <br>
 
 ## 📖 Sobre
-A aplicação armazena a quantidade de notas, às notas digitadas pelo usuário e, em seguida, calcula a média aritmética e imprime à média na tela. Foi feita apenas utilizando a `linguagem java` e a IDE `vscode`.
+A aplicação armazena uma quantidade de notas, às notas digitadas pelo usuário e, em seguida, calcula a média aritmética e imprime na tela. Foi feita apenas utilizando a `linguagem java` e a IDE `vscode`.
 
 <br>
 
@@ -44,6 +44,14 @@ No workspace contém duas pastas por padrão, onde:
 Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 > Se você quer customizar a pasta, abra `.vscode/settings.json` e atualize as configurações relacionadas lá
+
+## ⚠️ Problema Encontrado
+
+### Problema:
+- Ao colocar o ponto para colocar a altura, ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
+
+### Solução:
+- Apenas troque o ponto por `vírgula`.
 
 <hr>
 
@@ -95,6 +103,14 @@ The workspace contains two folders by default, where:
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
 > If you want to customize the folder, open `.vscode/settings.json` and update the related settings there.
+
+## ⚠️ Problem Found
+
+### Problem:
+- An error occurred when placing the point to set the height, this may be due to regional settings.
+
+### Solution:
+- Just change the period to a `comma`.
 
 </details>
 
