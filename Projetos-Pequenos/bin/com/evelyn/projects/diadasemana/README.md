@@ -1,7 +1,7 @@
 # ☕ Day of the Week(Dia da Semana)
 
 ## 📖 Sobre
-Está aplicação armazena um dia digitado pelo usuário, e imprime qual dia da semana é de acordo com o dia digitado. Foi feita utilizando apenas a `linguagem java` e a IDE `vscode`.
+Esta aplicação armazena um dia digitado pelo usuário e imprime qual dia da semana é conforme o dia digitado. Foi feita utilizando apenas a `linguagem java` e a IDE `vscode`.
 
 <br>
 
@@ -56,7 +56,7 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
     </summary>
 
 ## 📖 About
-This application stores a day of the week, and prints which day of the week it is according to the day entered. Is was made using a `language java` and the IDE `vscode`.
+This application stores a day of the week and prints which day of the week it is according to the day entered. It was made using a `language java` and the `vscode` IDE.
 
 <br>
 
@@ -87,7 +87,7 @@ You don't just have to use Visual Studio Code, you can use others IDE's. Example
 
 ## 🛠 Folder Structure
 
-The worspace contains two folders by default, where:
+The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources.
 - `lib`: the folder to maintain dependencies.
