@@ -1,7 +1,7 @@
-# ☕ Converter of Celsius to Fahrenheit(Conversor de Celsius para Fahrenheit)
+# ☕ Converter of Celsius to Fahrenheit (Conversor de Celsius para Fahrenheit)
 
 ## 📖 Sobre
-Está aplicação armazena uma temperatura em celsius e a converte para fahrenheit. Foi feita utilizando apenas a `linguagem java` e a IDE `vscode`.
+Esta aplicação armazena uma temperatura em celsius e a converte para fahrenheit. Foi feita utilizando apenas a `linguagem java` e a IDE `vscode`.
 
 
 <br>
@@ -44,10 +44,10 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 <br>
 
-## ⚠️ Problemas Encontrados
+## ⚠️ Problema Encontrado
 
 ### Problema:
-- Ao colocar o ponto para colocar a altura ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
+- Ao colocar o ponto para colocar a altura, ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
 
 ### Solução:
 - Apenas troque o ponto por `vírgula`.
@@ -67,7 +67,7 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
     </summary>
 
 ## 📖 About
-This application stores temperature in celsius and converts it to fahrenheit. It was made using the `language java` and the IDE `vscode`.
+This application stores temperature in celsius and converts it to fahrenheit. It was made using the `language java` and the `vscode` IDE.
 
 
 <br>
@@ -99,7 +99,7 @@ You don't just have to use Visual Studio Code, you can use others IDE's. Example
 
 ## 🛠 Folder Structure
 
-The worspace contains two folders by default, where:
+The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources.
 - `lib`: the folder to maintain dependencies.
@@ -110,7 +110,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 <br>
 
-## ⚠️ Problems Faced
+## ⚠️ Problems Found
 
 ### Problem: 
 - An error occurred when placing the point to set the height, this may be due to regional settings.
