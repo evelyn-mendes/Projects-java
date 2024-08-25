@@ -1,3 +1,10 @@
+/**
+ * Author: Evelyn
+ * Date: 01/08/2024
+ * Language: Java
+ * Description: É um programa que armazena um nome, idade, salário, sexo e estado civil de uma pessoa, após faz uma verificação, e imprime os dados na tela
+*/
+
 package com.evelyn.projects.cadastroinformacoes;
 
 import java.util.Scanner;
