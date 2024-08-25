@@ -1,7 +1,7 @@
 # ☕ Leap Year(Ano Bissexto)
 
 ## 📖 Sobre
-Está aplicação armazena um ano que o usuário escolhe, ou o ano do próprio sistema, e imprime se esse ano é bissexto ou não. Foi feita utilizando apenas a `liguagem java` e a IDE `vscode`.
+Esta aplicação armazena um ano que o usuário escolhe, ou o ano do próprio sistema, e imprime se esse ano é bissexto ou não. Foi feita utilizando apenas a `liguagem java` e a IDE `vscode`.
 
 <br>
 
@@ -61,7 +61,7 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
     </summary>
 
 ## 📖 About
-This application stores a year chosen by the user, or the system's own year, and prints if it is a leap year. It was made using the `language java` and the IDE `vscode`.
+This application stores a year chosen by the user, or the system's own year, and prints whether the year is a leap year. It was made using the `language java` and the `vscode` IDE.
 
 <br>
 
@@ -92,7 +92,7 @@ You don't just have to use Visual Studio Code, you can use others IDE's. Example
 
 ## 🛠 Folder Structure
 
-The worspace contains two folders by default, where:
+The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources.
 - `lib`: the folder to maintain dependencies.
