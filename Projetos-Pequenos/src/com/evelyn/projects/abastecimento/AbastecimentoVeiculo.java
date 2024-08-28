@@ -2,7 +2,7 @@
  * Author: Evelyn
  * Date: 29/07/2024
  * Language: Java
- * Description: Programa que armazena o tipo de combustível e a quantidade de litros, e depois imprime o valor a ser pago de acordo com o combustível e o desconto
+ * Description: Programa que armazena o tipo de combustível e a quantidade de litros, e depois imprime o valor a ser pago conforme o combustível e o desconto
 */
 
 package com.evelyn.projects.abastecimento;
@@ -13,12 +13,10 @@ public class AbastecimentoVeiculo {
     
     public static void main(String[] args) {
         
-        System.out.println("\n============== Abastecimento ==============\n");
+        System.out.println("\n================ Abastecimento ================\n");
 
         Scanner input = new Scanner(System.in);
       
-        System.out.println("--- Tabela --- \nÁlcool = A\nGasolina = G\n");
-
         String resp = "";
         String tipoCombustivel;
 
@@ -30,7 +28,7 @@ public class AbastecimentoVeiculo {
             if(!tipoCombustivel.equals("a") && !tipoCombustivel.equals("g")){
                 System.out.println("Erro: < Digite uma das opções >\n");
                 
-                System.out.print("Deseja encerrar o cálculo[S/N]? ");
+                System.out.print("Deseja encerrar o programa[S/N]? ");
                 resp = input.next().toLowerCase();
 
                 if(resp.equals("s")){
@@ -49,7 +47,7 @@ public class AbastecimentoVeiculo {
             System.out.println("Encerrando...");
             
         } else {
-            System.out.println("===========================================\n");
+            System.out.println("===============================================\n");
             double desconto = 0, valorAlcool = 1.90, valorGasolina = 2.50, valorPago = 0;
 
             System.out.print(">> Digite a quantidade de litros: ");
@@ -65,7 +63,7 @@ public class AbastecimentoVeiculo {
                   }
 
                 valorPago = (qtdLitros * valorAlcool) - desconto;
-                System.out.printf(">> O valor a ser pago pelo Álcool é: R$%.2f\n", valorPago);
+                System.out.printf(">> O valor a ser pago pelo álcool é: R$%.2f\n", valorPago);
                 break;
 
               case "g":
@@ -75,7 +73,7 @@ public class AbastecimentoVeiculo {
                       desconto = (qtdLitros * valorGasolina) * 0.06;
                   }
                 valorPago = (qtdLitros * valorGasolina) - desconto;                    
-                System.out.printf(">> O valor a ser pago pela Gasolina é: R$%.2f\n", valorPago);
+                System.out.printf(">> O valor a ser pago pela gasolina é: R$%.2f\n", valorPago);
                 break;
             }
         }
