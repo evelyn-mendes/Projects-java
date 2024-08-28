@@ -68,7 +68,10 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 <details>
     <summary>
-        In English
+    </summary>
+        <h2>
+            In English
+        <h2>
     </summary>
 
 ## 📖 About    
