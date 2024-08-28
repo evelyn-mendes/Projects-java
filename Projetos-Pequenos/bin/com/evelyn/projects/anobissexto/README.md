@@ -1,7 +1,7 @@
 # ☕ Leap Year(Ano Bissexto)
 
 ## 📖 Sobre
-Esta aplicação armazena um ano que o usuário escolhe, ou o ano do próprio sistema, e imprime se esse ano é bissexto ou não. Foi feita utilizando apenas a `liguagem java` e a IDE `vscode`.
+Esta aplicação armazena um ano escolhido pelo usuário ou o ano do próprio sistema, e imprime se esse ano é bissexto ou não. Foi feita utilizando apenas a `linguagem java` e a IDE `vscode`.
 
 <br>
 
@@ -36,7 +36,7 @@ Você não precisa apenas utilizar o Visual Studio Code, você pode utilizar out
 
 No workspace contém duas pastas por padrão, onde:
 
-- `src`: a pasta para manter os aquivos.
+- `src`: a pasta para manter os arquivos.
 - `lib`: a pasta para manter as dependências.
 
 Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
