@@ -1,8 +1,8 @@
-/*
-* Author: Evelyn
-* Date: 22/07/2024
-* Language: Java
-* Description: É um programa que armazena o ano do sistema ou um ano escolhido pelo usuário, e após imprime se o ano é bissexto
+/**
+ * Author:
+ * Date: 22/07/2024
+ * Language: Java
+ * Description: Programa que armazena o ano do sistema ou um ano escolhido pelo usuário, em seguida, imprime se o ano é bissexto
 */
 
 package com.evelyn.projects.anobissexto;
@@ -14,32 +14,42 @@ public class VerificarAno {
     
     public static void main(String[] args){
 
-        System.out.println("========== Verificar se o ano é Bissexto ==========\n");
+        System.out.println("======================= Verificar se o ano é Bissexto =======================\n");
 
         Scanner input = new Scanner(System.in);
         
         Year anoAtual = Year.now();
         int ano = 0;
+        boolean isValido = true; //Flag(bandeira)
 
-        System.out.print(">> Deseja calcular um ano diferente do ano do seu sistema[S/N]? ");
-        char resp = input.next().toLowerCase().charAt(0);
+        do{
 
-        switch(resp){
+            System.out.print(">> Deseja calcular um ano diferente do ano do seu sistema[S/N]? ");
+            char resp = input.next().toLowerCase().charAt(0);
+
+            switch(resp){
 
                 case 's':
                     System.out.print("\n>> Digite um ano: ");
                     ano = input.nextInt();
+
+                    isValido = true;
                     break;
 
                 case 'n':
                     ano = anoAtual.getValue();
+
+                    isValido = true;
                     break;
 
                 default: 
-                    System.out.println("Error: < Digite uma das opções >");
-        }
-      
-        System.out.println("\n===================================================\n");
+                    System.out.println("--> Erro: Digite uma das opções.\n");
+                    isValido = false;
+            }
+
+        } while(!isValido);
+        
+        System.out.println("\n=============================================================================\n");
 
         if((ano % 4 == 0 && ano % 100 != 0) || (ano % 400 == 0)){
             System.out.println(">> O ano " + ano + " é bissexto.\n");
@@ -47,6 +57,8 @@ public class VerificarAno {
         } else {
             System.out.println(">> O ano " + ano + " não é bissexto.\n");
         }
+        
+        
         
     }
 }
