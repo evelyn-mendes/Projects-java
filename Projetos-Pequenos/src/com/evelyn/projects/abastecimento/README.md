@@ -48,7 +48,7 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 ## ⚠️ Problema Encontrado
 
 ### Problema:
-- Ao colocar o ponto para colocar a altura, ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
+- Ao colocar o ponto para colocar a quantidade de litros, ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
 
 ### Solução:
 - Apenas troque o ponto por `vírgula`.
@@ -119,7 +119,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## ⚠️ Problem Found
 
 ### Problem:
-- An error occurred when placing the point to set the height, this may be due to regional settings.
+- An error occurred when placing the point to set the amount of liters, this may be due to regional settings.
 
 ### Resolution:
 - Just change the period to a `comma`.
