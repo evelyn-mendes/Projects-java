@@ -2,7 +2,7 @@
  * Author: Evelyn
  * Date: 01/08/2024
  * Language: Java
- * Description: É um programa que armazena um nome, idade, salário, sexo e estado civil de uma pessoa, após faz uma verificação, e imprime os dados na tela
+ * Description: Programa que armazena um nome, idade, salário, sexo e estado civil de uma pessoa, após faz uma verificação, e imprime os dados na tela
 */
 
 package com.evelyn.projects.cadastroinformacoes;
@@ -52,7 +52,7 @@ public class Cadastro {
               break;
             
             } else {
-                System.out.println("\n--> Por favor, siga as regras da tabela.\n\n");
+                System.out.println("\n--> Erro: Por favor, siga as regras da tabela.\n\n");
             }
           
         }
@@ -79,12 +79,12 @@ public class Cadastro {
       
         System.out.println("==============================================================================================");
 
-        System.out.println("\n--> Informações válidadas com sucesso!\n");
+        System.out.println("\n--> Informações validadas com sucesso!\n");
 
-        System.out.println("Nome: " + nome);
-        System.out.println("Idade: " + idade);
-        System.out.println("Salário: " + salario);
-        System.out.println("Sexo: " + sexo.toUpperCase());
-        System.out.println("Estado Civil: " + estadoCivilCompleto);
+        System.out.println(">> Nome: " + nome);
+        System.out.println(">> Idade: " + idade);
+        System.out.println(">> Salário: " + salario);
+        System.out.println(">> Sexo: " + sexo.toUpperCase());
+        System.out.println(">> Estado Civil: " + estadoCivilCompleto + "\n");
     }
 }
