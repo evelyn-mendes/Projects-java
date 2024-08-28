@@ -2,7 +2,7 @@
 * Author: Evelyn
 * Date: 14/07/2024
 * Language: Java
-* Description: É um programa que armazena o raio de um círculo e imprime a área deste círculo
+* Description: Programa que armazena o raio de um círculo e imprime a área deste círculo
 */
 
 package com.evelyn.projects.areadocirculo;
