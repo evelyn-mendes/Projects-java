@@ -1,7 +1,7 @@
 # ☕ Supply (Abastecimento)
 
 ## 📖 Sobre
-Esta aplicação armazena o tipo do combustível e quantos litros o usuário deseja abastecer. Caso a quantidade de litros for maior que 20, aplicasse um desconto de 5%, caso não, aplicasse 3% de desconto, então calcula quanto ele deverá pagar e imprime o resultado. Foi feita utilizando apenas a `linguagem java` e a IDE `vscode`.
+Esta aplicação armazena o tipo do combustível e quantos litros o usuário deseja abastecer. Caso a quantidade de litros for maior que 20, aplicasse um desconto de 5%, caso contrário, aplicasse 3%. Em seguida, o programa calcula quanto ele deverá pagar e imprime o resultado. Foi feita utilizando apenas a `linguagem java` e a IDE `vscode`.
 
 <br>
 
