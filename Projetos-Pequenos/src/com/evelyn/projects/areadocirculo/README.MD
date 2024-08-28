@@ -1,7 +1,7 @@
 # ☕ Area of the Circle (Área do Círculo)
 
 ## 📚 Sobre
-Está aplicação armazena o raio de um círculo, e calcula sua área, e após imprime na tela. Foi feito utilizando apenas a `linguagem java` e a IDE `vscode`.
+Esta aplicação armazena o raio de um círculo, calcula sua área e após imprime na tela. Foi feito utilizando apenas a `linguagem java` e a IDE `vscode`.
 
 <br>
 
@@ -36,7 +36,7 @@ Você não precisa apenas utilizar o Visual Studio Code, você pode utilizar out
 
 No workspace contém duas pastas por padrão, onde:
 
-- `src`: a pasta para manter os aquivos.
+- `src`: a pasta para manter os arquivos.
 - `lib`: a pasta para manter as dependências.
 
 Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
@@ -45,10 +45,10 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 <br>
 
-## ⚠️ Problemas Encontrados
+## ⚠️ Problema Encontrado
 
 ### Problema:
-- Ao colocar o ponto para colocar a altura ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
+- Ao colocar o ponto para colocar o raio do círculo, ocorreu um erro, isso pode ocorrer por conta das configurações regionais do `sistema operacional`.
 
 ### Solução:
 - Apenas troque o ponto por `vírgula`.
@@ -59,15 +59,15 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 
 <details>
-    <summmary>
+    <summary>
         <h2>
             In English
-        <h2>
+        </h2>
     </summary>
 
-## 📖 About
+## 📚 About
 
-This application stores the radius of a circle, calculates your area, and then prints it on screen. It was made using the `language java` and the IDE `vscode`. 
+This application stores the radius of a circle, calculates your area, and then prints it on screen. It was made using the `language java` and the `vscode` IDE. 
 
 <br>
 
@@ -98,7 +98,7 @@ You don't just have to use Visual Studio Code, you can use others IDE's. Example
 
 ## 🛠 Folder Structure
 
-The worspace contains two folders by default, where:
+The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources.
 - `lib`: the folder to maintain dependencies.
@@ -109,10 +109,10 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 <br>
 
-## ⚠️ Problems Faced
+## ⚠️ Problem Found
 
 ### Problem:
-- An error occurred when placing the point to set the height, this may be due to regional settings.
+- An error occurred when placing the point to set the radius of the circle, this may be due to regional settings.
 
 ### Resolution:
 - Just change the period to a `comma`.
