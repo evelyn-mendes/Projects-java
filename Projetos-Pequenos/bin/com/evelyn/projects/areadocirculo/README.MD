@@ -36,7 +36,7 @@ Você não precisa apenas utilizar o Visual Studio Code, você pode utilizar out
 
 No workspace contém duas pastas por padrão, onde:
 
-- `src`: a pasta para manter os aquivos.
+- `src`: a pasta para manter os arquivos.
 - `lib`: a pasta para manter as dependências.
 
 Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
@@ -59,13 +59,13 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 
 <details>
-    <summmary>
+    <summary>
         <h2>
             In English
-        <h2>
+        </h2>
     </summary>
 
-## 📖 About
+## 📚 About
 
 This application stores the radius of a circle, calculates your area, and then prints it on screen. It was made using the `language java` and the `vscode` IDE. 
 
