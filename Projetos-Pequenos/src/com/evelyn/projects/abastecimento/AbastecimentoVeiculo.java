@@ -26,9 +26,9 @@ public class AbastecimentoVeiculo {
             tipoCombustivel = input.next().toLowerCase();
 
             if(!tipoCombustivel.equals("a") && !tipoCombustivel.equals("g")){
-                System.out.println("Erro: < Digite uma das opções >\n");
+                System.out.println("--> Erro: Digite uma das opções.\n");
                 
-                System.out.print("Deseja encerrar o programa[S/N]? ");
+                System.out.print("--> Deseja encerrar o programa[S/N]? ");
                 resp = input.next().toLowerCase();
 
                 if(resp.equals("s")){
