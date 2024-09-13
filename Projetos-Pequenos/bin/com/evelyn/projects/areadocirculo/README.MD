@@ -1,13 +1,13 @@
 # ☕ Area of the Circle (Área do Círculo)
 
 ## 📚 Sobre
-Esta aplicação armazena o raio de um círculo, calcula sua área e após imprime na tela. Foi feito utilizando apenas a `linguagem java` e a IDE `vscode`.
+Esta aplicação armazena o raio de um círculo, calcula sua área e após imprime na tela. Foi feito utilizando apenas a linguagem `Java` e a IDE `VSCODE`.
 
 <br>
 
 ## 📚 Instrução de Instalação
 
-## 📋 Pré-requisitos
+### 📋 Pré-requisitos
 - [JDK 21.0.2](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
 
 <br>
@@ -25,9 +25,8 @@ Você não precisa apenas utilizar o Visual Studio Code, você pode utilizar out
 ## ❓ Como Contribuir
 
 ``` bash
-    # Clone o projeto
+    # Clone o projeto para o seu computador
     $ git clone https://github.com/evelyn-mendes/Projects-java.git
-    # Clone dentro do Git Bash
 ```
 
 <br>
@@ -37,7 +36,6 @@ Você não precisa apenas utilizar o Visual Studio Code, você pode utilizar out
 No workspace contém duas pastas por padrão, onde:
 
 - `src`: a pasta para manter os arquivos.
-- `lib`: a pasta para manter as dependências.
 
 Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
@@ -67,13 +65,13 @@ Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
 ## 📚 About
 
-This application stores the radius of a circle, calculates your area, and then prints it on screen. It was made using the `language java` and the `vscode` IDE. 
+This application stores the radius of a circle, calculates your area, and then prints it on screen. It was made using the language `Java` and the `VSCODE` IDE. 
 
 <br>
 
 ## 📚 Installation Instruction
 
-## 📋 Prerequisites
+### 📋 Prerequisites
 
 - [JDK 21.0.2](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
 
@@ -89,9 +87,8 @@ You don't just have to use Visual Studio Code, you can use others IDE's. Example
 
 ## ❓ How Contribute
 ``` bash
-    # Clone the project
+    # Clone the project for your computer
     $ git clone https://github.com/evelyn-mendes/Projects-java.git
-    # Clone inside the Git Bash
 ```
 
 <br>
@@ -101,7 +98,6 @@ You don't just have to use Visual Studio Code, you can use others IDE's. Example
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources.
-- `lib`: the folder to maintain dependencies.
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
@@ -124,21 +120,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 # 📝 License
 MIT License
 
-Copyright (c) 2024 Evelyn Mendes
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
