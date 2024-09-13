@@ -1,13 +1,17 @@
-/*
- * Author: Evelyn
- * Date: 16/07/2024
- * Language: Java
- * Description: Programa que armazena a altura e a base de um quadrado, e calcula sua área e o dobro da área
- */
-
 package com.evelyn.projects.areadoquadrado;
 
 import java.util.Scanner;
+
+/**
+ * <h1> Área de um quadrado </h1>
+ * <p>Programa que armazena a altura e a base de um quadrado, e calcula sua área e o dobro da área.</p>
+ * 
+ * <h4>Language: Java</h4>
+ * 
+ * @author Evelyn Mendes
+ * @version 1.0
+ * @since 16/07/2024
+ */
 
 public class AreaDoQuadrado {
     
