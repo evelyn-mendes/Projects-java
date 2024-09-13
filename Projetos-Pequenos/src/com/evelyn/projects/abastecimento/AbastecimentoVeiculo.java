@@ -1,13 +1,19 @@
-/**
- * Author: Evelyn
- * Date: 29/07/2024
- * Language: Java
- * Description: Programa que armazena o tipo de combustível e a quantidade de litros, e depois imprime o valor a ser pago conforme o combustível e o desconto
-*/
-
 package com.evelyn.projects.abastecimento;
 
+import java.util.Locale;
 import java.util.Scanner;
+
+/**
+ * <h1> Abastecimento </h1>
+ * <p>Programa que armazena o tipo de combustível e a quantidade de litros, e depois imprime o valor a ser pago conforme o combustível e o desconto.</p>
+ * 
+ * <h4>Language: Java</h4>
+ * 
+ * @author Evelyn Mendes
+ * @version 1.0
+ * @since 29/07/2024
+ */
+
 
 public class AbastecimentoVeiculo {
     
@@ -15,7 +21,7 @@ public class AbastecimentoVeiculo {
         
         System.out.println("\n================ Abastecimento ================\n");
 
-        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in).useLocale(Locale.US);
       
         String resp = "";
         String tipoCombustivel;
