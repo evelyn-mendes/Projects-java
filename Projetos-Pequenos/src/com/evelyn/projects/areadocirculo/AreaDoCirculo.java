@@ -1,13 +1,17 @@
-/*
-* Author: Evelyn
-* Date: 14/07/2024
-* Language: Java
-* Description: Programa que armazena o raio de um círculo e imprime a área deste círculo
-*/
-
 package com.evelyn.projects.areadocirculo;
 
 import java.util.Scanner;
+
+/**
+ * <h1> Área de um círculo </h1>
+ * <p>Programa que armazena o raio de um círculo e imprime a área deste círcul.</p>
+ * 
+ * <h4>Language: Java</h4>
+ * 
+ * @author Evelyn Mendes
+ * @version 1.0
+ * @since 14/07/2024
+ */
 
 public class AreaDoCirculo {
     
