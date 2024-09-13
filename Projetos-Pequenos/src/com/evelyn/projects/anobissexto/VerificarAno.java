@@ -1,14 +1,18 @@
-/**
- * Author:
- * Date: 22/07/2024
- * Language: Java
- * Description: Programa que armazena o ano do sistema ou um ano escolhido pelo usuário, em seguida, imprime se o ano é bissexto
-*/
-
 package com.evelyn.projects.anobissexto;
 
 import java.time.Year;
 import java.util.Scanner;
+
+/**
+ * <h1> Ano Bissexto </h1>
+ * <p>Programa que armazena o ano do sistema ou um ano escolhido pelo usuário, em seguida, imprime se o ano é bissexto.</p>
+ * 
+ * <h4>Language: Java</h4>
+ * 
+ * @author Evelyn Mendes
+ * @version 1.0
+ * @since 22/07/2024
+ */
 
 public class VerificarAno {
     
