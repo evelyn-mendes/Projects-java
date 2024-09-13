@@ -25,7 +25,7 @@ Você não precisa apenas utilizar o Visual Studio Code, você pode utilizar out
 ## ❓ Como Contribuir
 
 ``` bash
-    # # Clone o projeto para o seu computador
+    # Clone o projeto para o seu computador
     $ git clone https://github.com/evelyn-mendes/Projects-java.git
 ```
 
