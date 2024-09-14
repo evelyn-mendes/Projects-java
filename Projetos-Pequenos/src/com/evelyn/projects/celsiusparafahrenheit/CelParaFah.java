@@ -3,7 +3,7 @@ package com.evelyn.projects.celsiusparafahrenheit;
 import java.util.Scanner;
 
 /**
- * <h1> Calculadora </h1>
+ * <h1> Celsius para Fahrenheit </h1>
  * <p>É um programa que armazena a temperatura em Celsius e a converte para Fhrenheit</p>
  * 
  * <h4>Language: Java</h4>

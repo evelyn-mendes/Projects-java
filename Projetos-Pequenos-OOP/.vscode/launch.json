@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "com.evelyn.projects.tvsmart.Usuario",
+            "projectName": "Projetos-Pequenos-OOP_aeab8338"
+        },
+        {
+            "type": "java",
+            "name": "AlunoMain",
+            "request": "launch",
+            "mainClass": "com.evelyn.projects.matriculaaluno.AlunoMain",
+            "projectName": "Projetos-Pequenos-OOP_aeab8338"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.evelyn.projects.contacorrente.Main",
+            "projectName": "Projetos-Pequenos-OOP_aeab8338"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "com.evelyn.projects.lampadaavenda.Main",
+            "projectName": "Projetos-Pequenos-OOP_aeab8338"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "com.evelyn.projects.lampadaligadaoudesligada.Main",
+            "projectName": "Projetos-Pequenos-OOP_aeab8338"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "com.evelyn.projects.matriculaaluno.Main",
+            "projectName": "Projetos-Pequenos-OOP_aeab8338"
+        }
+    ]
+}
