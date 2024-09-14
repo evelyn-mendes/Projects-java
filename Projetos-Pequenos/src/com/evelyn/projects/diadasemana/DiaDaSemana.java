@@ -3,7 +3,7 @@ package com.evelyn.projects.diadasemana;
 import java.util.Scanner;
 
 /**
- * <h1> Calculadora </h1>
+ * <h1> Dia da Semana </h1>
  * <p>É um programa que armazena um número e imprime o dia da semana de acordo com esse número</p>
  * 
  * <h4>Language: Java</h4>
