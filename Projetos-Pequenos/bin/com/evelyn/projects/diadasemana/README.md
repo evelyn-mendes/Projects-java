@@ -5,7 +5,7 @@ Esta aplicação armazena um dia digitado pelo usuário e imprime qual dia da se
 
 <br>
 
-## 📋 Pré-requisitos
+### 📋 Pré-requisitos
 - [JDK 21.0.2](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
 
 <br>
@@ -60,7 +60,7 @@ This application stores a day of the week and prints which day of the week it is
 
 ## 📚 Installation Instruction
 
-## 📋 Prerequisites
+### 📋 Prerequisites
 
 - [JDK 21.0.2](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
 
