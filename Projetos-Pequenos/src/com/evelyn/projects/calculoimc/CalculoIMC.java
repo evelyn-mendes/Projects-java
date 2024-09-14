@@ -3,7 +3,7 @@ package com.evelyn.projects.calculoimc;
 import java.util.Scanner;
 
 /**
- * <h1> Calculadora </h1>
+ * <h1> IMC </h1>
  * <p>É um programa que armazena altura e peso do usuário e o seu IMC.</p>
  * 
  * <h4>Language: Java</h4>
