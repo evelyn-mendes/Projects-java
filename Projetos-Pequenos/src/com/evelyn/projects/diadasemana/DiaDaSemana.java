@@ -1,13 +1,17 @@
-/*
-* Author: Evelyn
-* Date: 22/07/2024
-* Language: Java
-* Description: É um programa que armazena um número, e imprime o dia da semana de acordo com esse número
-*/
-
 package com.evelyn.projects.diadasemana;
 
 import java.util.Scanner;
+
+/**
+ * <h1> Calculadora </h1>
+ * <p>É um programa que armazena um número e imprime o dia da semana de acordo com esse número</p>
+ * 
+ * <h4>Language: Java</h4>
+ * 
+ * @author Evelyn Mendes
+ * @version 1.0
+ * @since 22/07/2024
+ */
 
 public class DiaDaSemana {
     
@@ -52,7 +56,7 @@ public class DiaDaSemana {
                 break;
 
             default:
-                System.out.println("Error: < Valor inválido! >\n");
+                System.out.println("Erro: < Valor inválido. >\n");
         }
     }
 }
