@@ -3,7 +3,7 @@ package com.evelyn.projects.cadastroinformacoes;
 import java.util.Scanner;
 
 /**
- * <h1> Área de um quadrado </h1>
+ * <h1> Cadastro Usuário </h1>
  * <p>Programa que armazena a altura e a base de um quadrado, e calcula sua área e o dobro da área.</p>
  * 
  * <h4>Language: Java</h4>
