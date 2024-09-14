@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * <h1> Calculadora </h1>
- * <p>É um programa que armazena a temperatura em Celsius e a converte para fFhrenheit</p>
+ * <p>É um programa que armazena a temperatura em Celsius e a converte para Fhrenheit</p>
  * 
  * <h4>Language: Java</h4>
  * 
