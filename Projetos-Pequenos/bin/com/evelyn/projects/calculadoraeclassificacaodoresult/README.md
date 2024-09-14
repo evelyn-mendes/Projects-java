@@ -1,7 +1,7 @@
 # ☕ Calculator (Calculadora)
 
 ## 📖 Sobre
-É um programa que armazena dois números, e permite ao usuário escolher entre somar, subtrair, multiplicar ou dividir eles, e depois imprime o resultado, e se ele é par ou ímpar e se ele é decimal ou inteiro. Foi feita apenas utilizando a linguagem `Java` e a IDE `VSCODE`.
+Este aplicativo armazena dois números, e permite ao usuário escolher entre somar, subtrair, multiplicar ou dividir eles, e depois imprime o resultado, e se ele é par ou ímpar e se ele é decimal ou inteiro. Foi feito apenas utilizando a linguagem `Java` e a IDE `VSCODE`.
 
 <br>
 
