@@ -1,13 +1,17 @@
-/*
- * Author: Evelyn
- * Date: 16/07/2024
- * Language: Java
- * Description: É um programa que armazena a temperatura em celsius, e a converte para fahrenheit
- */
-
 package com.evelyn.projects.celsiusparafahrenheit;
 
 import java.util.Scanner;
+
+/**
+ * <h1> Calculadora </h1>
+ * <p>É um programa que armazena a temperatura em Celsius e a converte para fFhrenheit</p>
+ * 
+ * <h4>Language: Java</h4>
+ * 
+ * @author Evelyn Mendes
+ * @version 1.0
+ * @since 16/07/2024
+ */
 
 public class CelParaFah {
     
@@ -22,6 +26,6 @@ public class CelParaFah {
         double fahrenheit = celsius * 1.8 + 32;
 
         System.out.println("======================================================\n");
-        System.out.printf(">> A temeperatura em Fahrenheit é: %.3fºF\n\n", fahrenheit);
+        System.out.printf(">> A temperatura em Fahrenheit é: %.3fºF\n\n", fahrenheit);
     }
 }
