@@ -1,7 +1,7 @@
 # ☕ Even or Odd (Par ou ímpar)
 
 ## 📖 Sobre
-Está aplicação armazena dez números e imprime a quantidade de pares e ímpares. Foi feita utilizando apenas a linguagem `Java` e a IDE `VSCODE`.
+Esta aplicação armazena dez números e imprime a quantidade de pares e ímpares. Foi feita utilizando apenas a linguagem `Java` e a IDE `VSCODE`.
 
 <br>
 
