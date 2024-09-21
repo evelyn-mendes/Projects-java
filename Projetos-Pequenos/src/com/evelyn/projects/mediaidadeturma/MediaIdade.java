@@ -52,5 +52,7 @@ public class MediaIdade {
         System.out.println("\n================= Resultado =================");
         System.out.println(">> Média da sala: " + media);
         System.out.println(">> A sala é: " + estadoSala + "\n");
+
+        input.close();
     }
 }
