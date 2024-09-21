@@ -9,7 +9,7 @@ import java.util.Scanner;
  * 
  * <h4>Language: Java </h4>
  * 
- * @author Evelyn Medes
+ * @author Evelyn Mendes
  * @version 1.0
  * @since 08/08/2024
  */
@@ -37,7 +37,7 @@ public class MediaIdade {
             soma += idadeAlunos[i];
         }
 
-        media = soma / idadeAlunos.length;
+        media = (double)soma / idadeAlunos.length;
 
         if(media > 0 && media <= 25){
             estadoSala = "Jovem";
