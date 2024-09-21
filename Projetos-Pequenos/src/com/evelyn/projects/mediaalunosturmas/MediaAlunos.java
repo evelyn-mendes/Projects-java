@@ -10,7 +10,7 @@ import java.util.Scanner;
  * <h4>Language: Java </h4>
  * 
  * @author Evelyn Mendes
- * @since 1.1
+ * @version 1.1
  * @since 21/09/2024
  * 
  */
