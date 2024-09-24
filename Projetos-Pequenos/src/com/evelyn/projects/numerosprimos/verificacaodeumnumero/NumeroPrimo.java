@@ -1,4 +1,4 @@
-package com.evelyn.projects.numerosprimos;
+package com.evelyn.projects.numerosprimos.verificacaodeumnumero;
 
 import java.util.Scanner;
 
