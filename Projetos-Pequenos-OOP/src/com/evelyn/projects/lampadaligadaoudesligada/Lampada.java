@@ -2,16 +2,14 @@ package com.evelyn.projects.lampadaligadaoudesligada;
 
 public class Lampada {
 
-    boolean ligarLampada(String ligado){
+    boolean ligada;
 
-        if(ligado.equalsIgnoreCase("ligar")){
+    void ligar() {
+        ligada = true;
+    }
 
-            return true;
-        
-        } else {
-            return false;
-        }
-        
+    void desligar () {
+        ligada = false;
     }
 
 }
