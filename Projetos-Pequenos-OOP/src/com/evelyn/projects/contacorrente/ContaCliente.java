@@ -1,41 +1,52 @@
 package com.evelyn.projects.contacorrente;
 
-
 public class ContaCliente {
     
     String numConta;
     double saldo;
-    boolean status;
-    double limite;
+    boolean chequeEspecial = true;
+    double limiteChequeEspecial;
 
-    boolean sacar(double dinheiro){
+    boolean sacar(double quantiaSacar){
 
-        if(dinheiro > saldo){
-            return false;
+        if(saldo >= quantiaSacar){
+
+            saldo -= quantiaSacar;
+
+            return true;
+
         } else {
             
-            saldo -= dinheiro;
-            return true;
+            if(chequeEspecial) {
+
+                saldo += limiteChequeEspecial;
+
+                if(saldo >= quantiaSacar) {
+                    saldo -= quantiaSacar;
+                    return true;
+                } else {
+                    return false;
+                }
+
+            } else {
+                return false;
+            }
         }
     }
 
-    double depositar(double dinheiro){
+    double depositar(double quantiaSacar){
 
-        saldo += dinheiro;
+        saldo += quantiaSacar;
         return saldo;
     }
 
     void consultarSaldo(){
 
-        System.out.println(saldo);
+        System.out.println("--> Seu saldo é: " + saldo + " R$");
     }
 
     boolean verificarChequeEspecial(){
 
-        if(status == true){
-            return true;
-        } else {
-            return false;
-        }
+        return saldo <= 0;
     }
 }
