@@ -3,7 +3,7 @@ package com.evelyn.projects.vetores;
 import java.util.Scanner;
 
 /**
- * <p> Um programa que faz um vetor B com o mesmo tipo, tamanho e elementos do vetor A multiplicados por 2. 
+ * <p> Um programa que faz um vetor B com o mesmo tipo, tamanho do vetor A, mas com os elementos multiplicados por 2. </p>
  * 
  * <h4> Language: Java </h4>
  * 
