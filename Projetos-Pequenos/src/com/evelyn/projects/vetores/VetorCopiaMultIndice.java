@@ -3,7 +3,7 @@ package com.evelyn.projects.vetores;
 import java.util.Scanner;
 
 /**
- * <p> Um programa tem um vetor B com o mesmo tipo, tamanho do vetor A, mas com os elementos sendo a multiplicação dos valores de A pelo índice. </p>
+ * <p> Um programa que tem um vetor B com o mesmo tipo, tamanho do vetor A, mas com os elementos sendo a multiplicação dos valores de A pelo índice. </p>
  * 
  * <h4>Language: Java </h4>
  * 
