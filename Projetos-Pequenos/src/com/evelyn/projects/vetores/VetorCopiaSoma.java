@@ -3,8 +3,7 @@ package com.evelyn.projects.vetores;
 import java.util.Scanner;
 
 /**
- * <p> Um programa que tem os vetores B e C, com o mesmo tipo e tamanho do vetor A. 
- * O vetor B recebe os mesmos valores do vetor A, e o vetor C armazena a soma dos valores de A e B. </p>
+ * <p> Um programa que tem os vetores B e C, com o mesmo tipo e tamanho do vetor A. O vetor B recebe os mesmos valores do vetor A, e o vetor C armazena a soma dos valores de A e B. </p>
  * 
  * <h4>Language: Java </h4>
  * 
