@@ -23,7 +23,7 @@ public class SomaElementos {
 
         for(int i = 0; i < numbers.length; i++) {
 
-            System.out.print("\n>> Digite o " + (i+1) + " elemento do vetor A: ");
+            System.out.print("\n>> Digite o " + (i+1) + " elemento do vetor: ");
             numbers[i] = input.nextInt();
 
             sum += numbers[i];
