@@ -34,3 +34,5 @@ replay_pid*
 /Projetos-Pequenos-OOP/.vscode
 /Projetos-Pequenos/.vscode
 .vscode/
+/Projetos-Pequenos/bin
+bin/
