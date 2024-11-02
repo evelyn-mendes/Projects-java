@@ -6,9 +6,9 @@ package com.evelyn.projects.vetores;
  * <h4> Language: Java </h4>
  * 
  * @author Evelyn Mendes
- * @version 1.0
  * @since 29/09/2024
- */
+ * @version 1.0
+*/
 
 public class Porcent0e1 {
      
