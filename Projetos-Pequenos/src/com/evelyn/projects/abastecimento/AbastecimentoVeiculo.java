@@ -83,5 +83,7 @@ public class AbastecimentoVeiculo {
                 break;
             }
         }
+
+        input.close();
     }
 }
