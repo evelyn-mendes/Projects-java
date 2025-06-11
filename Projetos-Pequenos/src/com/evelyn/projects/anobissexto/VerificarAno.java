@@ -62,8 +62,7 @@ public class VerificarAno {
             System.out.println(">> O ano " + ano + " não é bissexto.\n");
         }
         
-        
-        
+        input.close();
     }
 }
 
