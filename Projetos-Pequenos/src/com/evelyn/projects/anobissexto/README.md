@@ -36,7 +36,7 @@ Você não precisa apenas utilizar o Visual Studio Code, você pode utilizar out
 No workspace contém duas pastas por padrão, onde:
 
 - `src`: a pasta para manter os arquivos.
-- `bin`: a pasta onde os arquivos compilados são gerador por padrão.
+- `bin`: a pasta onde os arquivos compilados são gerados por padrão.
 
 > Se você quer customizar a pasta, abra `.vscode/settings.json` e atualize as configurações correspondentes.
 
