@@ -9,7 +9,7 @@ import java.util.Scanner;
  * <h4>Language: Java</h4>
  * 
  * @author Evelyn Mendes
- * @version 1.0
+ * @version 1.1
  * @since 14/07/2024
  */
 
@@ -34,8 +34,9 @@ public class AreaDoCirculo {
            System.out.println(">> A área do círculo é: " + area + "\n");
           
         } else {
-          System.out.printf(">> A área do círculo é: %.2f\n\n", area);
+          System.out.printf(">> A área do círculo é ≈ %.2f\n\n", area);
         }
         
+        input.close();
     }
 }
