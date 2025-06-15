@@ -9,7 +9,7 @@ import java.util.Scanner;
  * <h4>Language: Java</h4>
  * 
  * @author Evelyn Mendes
- * @version 1.0
+ * @version 1.1
  * @since 16/07/2024
  */
 
@@ -53,5 +53,6 @@ public class AreaDoQuadrado {
 
       System.out.println(">> E seu dobro é: " + area * 2 + "\n");
       
+      input.close();
     }
 }
