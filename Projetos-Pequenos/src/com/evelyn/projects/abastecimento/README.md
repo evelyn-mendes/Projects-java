@@ -103,8 +103,8 @@ You don't just have to use Visual Studio Code, you can use others IDE's. Example
 
 The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources.
-- `bin`: the folder where the sources they are generated for default.
+- `src`: the folder to maintain files.
+- `bin`: the folder where the files they are generated for default.
 
 > If you want to customize the folder, open `.vscode/settings.json` and update the related settings there.
 
