@@ -1,4 +1,4 @@
-# ☕ Area of the Square(Área do Quadrado)
+# ☕ Salary Increase(Aumento Salarial)
 
 ## 📖 Sobre
 Esta aplicação recebe o salário inicial de um funcionário e calcula o seu novo salário com o aumento percentual, e imprime até o ano atual qual seria o salário desse funcionário. E o percentual a cada ano é o dobro do percentual anterior.
