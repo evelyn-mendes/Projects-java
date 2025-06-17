@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * <h1> Cadastro Usuário </h1>
- * <p>Programa que armazena a altura e a base de um quadrado, e calcula sua área e o dobro da área.</p>
+ * <p>O programa realiza o cadastro de um usuário, armazenando os seguintes dados: nome, idade, salário, sexo e estado civil da pessoa.</p>
  * 
  * <h4>Language: Java</h4>
  * 
@@ -53,6 +53,7 @@ public class Cadastro {
                 estadoCivil.equals("v") || 
                 estadoCivil.equals("d"))){
 
+              input.close();
               break;
             
             } else {
@@ -90,5 +91,6 @@ public class Cadastro {
         System.out.println(">> Salário: " + salario);
         System.out.println(">> Sexo: " + sexo.toUpperCase());
         System.out.println(">> Estado Civil: " + estadoCivilCompleto + "\n");
+
     }
 }
