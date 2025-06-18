@@ -4,12 +4,12 @@ import java.util.Scanner;
 
 /**
  * <h1> IMC </h1>
- * <p>É um programa que armazena altura e peso do usuário e o seu IMC.</p>
+ * <p>É um programa que armazena altura e peso do usuário e calcula seu IMC.</p>
  * 
  * <h4>Language: Java</h4>
  * 
  * @author Evelyn Mendes
- * @version 1.0
+ * @version 1.1
  * @since 16/07/2024
  */
 
@@ -50,5 +50,6 @@ public class CalculoIMC {
             System.out.println(">> Obesidade Grau 3\n");
         }        
         
+        input.close();
     }
 }
