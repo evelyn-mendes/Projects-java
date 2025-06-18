@@ -4,13 +4,12 @@ import java.util.Scanner;
 
 /**
  * <h1> Calculadora </h1>
- * <p>É um programa que armazena dois números, e permite ao usuário escolher entre somar, subtrair, multiplicar ou dividir eles, e depois imprime o resultado, e se o 
-* resultado é par ou ímpar e se ele é decimal ou inteiro.</p>
+ * <p>É um programa que armazena dois números e permite ao usuário realizar uma operação matemática (somar, subtrair, multiplicar ou dividir). Depois imprime o resultado, e se o resultado é par ou ímpar e se ele é decimal ou inteiro, positivo ou negativo.</p>
  * 
  * <h4>Language: Java</h4>
  *
  * @author Evelyn Mendes
- * @version 1.0
+ * @version 1.1
  * @since 16/08/2024
  */
 
@@ -34,7 +33,6 @@ public class Calculadora {
         String parImpar = "", inteiroDecimal = "", tipo = "", positivoNegativo = "";
         boolean valido = true; //Chama-se isso de flag(bandeira) para validarmos algo
         
-
         System.out.println();
       
         switch(resp){
@@ -93,5 +91,7 @@ public class Calculadora {
 
             System.out.println(">> O número é " + inteiroDecimal + "\n");
         }
+
+        input.close();
     }
 }
