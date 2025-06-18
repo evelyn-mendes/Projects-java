@@ -4,12 +4,12 @@ import java.util.Scanner;
 
 /**
  * <h1> Calculadora </h1>
- * <p>Programa para ler dois números, e realizar alguma operação matemática escolhida pelo usuário.</p>
+ * <p>O programa lê dois números e realiza alguma operação que o usuário escolha (soma, subtração, divisão ou multiplicação).</p>
  * 
  * <h4>Language: Java</h4>
  *
  * @author Evelyn Mendes
- * @version 1.0 
+ * @version 1.1
  * @since 16/07/2024
  */
 
@@ -54,6 +54,8 @@ public class CalculadoraPessoal {
         default:
             System.out.println("\nErro: <Por favor, escolha uma opção válida>");
       }
+
+      input.close();
 
       System.out.println("\nEncerrando...\n");
   }
