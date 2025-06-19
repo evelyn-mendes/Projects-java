@@ -5,12 +5,12 @@ import java.util.Scanner;
 /**
  * <h1> Compra de CDs </h1>
  * 
- * <p> É um programa que recebe N quantidade de CDs e calcula a soma entre os preços de todos os CDs, e após imprime o valor médio gasto na compra de cada CD. </p>
+ * <p> É um programa que recebe N quantidade de CDs e calcula a soma total dos preços dos CDs, e após imprime o valor médio gasto na compra dos mesmos. </p>
  * 
  * <h4>Language: Java </h4>
  * 
  * @author Evelyn Mendes
- * @version 1.1
+ * @version 1.2
  * @since 21/09/2024
  */
 
@@ -52,6 +52,7 @@ public class CDS {
             System.out.println(">> CD: " + cds[i] + " - Valor pago: R$" + valoresCds[i]);
         }
 
+        System.out.printf("\n>> Valor total gasto com os CDs: R$ %.2f", soma);
         System.out.printf("\n>> O valor médio gasto com cada CD: %.2f\n", media);
 
         input.close();
