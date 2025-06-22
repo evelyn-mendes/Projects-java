@@ -4,12 +4,12 @@ import java.util.Scanner;
 
 /**
  * <h1> Fahrenheit para Celsius </h1>
- * <p>É um programa que armazena a temperatura em Fahrenheit e a converte para Celsius</p>
+ * <p>É um programa que armazena a temperatura em Fahrenheit e a converte para Celsius.</p>
  * 
  * <h4>Language: Java</h4>
  * 
  * @author Evelyn Mendes
- * @version 1.0
+ * @version 1.1
  * @since 16/07/2024
  */
 public class FahParaCel {
@@ -26,5 +26,7 @@ public class FahParaCel {
 
             System.out.println("======================================================\n");
             System.out.printf(">> A temperatura em Celsius é: %.3fºC\n\n", celsius);       
+
+            input.close();
         }
 }
