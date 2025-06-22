@@ -9,7 +9,7 @@ import java.util.Scanner;
  * <h4>Language: Java</h4>
  * 
  * @author Evelyn Mendes
- * @version 1.0
+ * @version 1.1
  * @since 22/07/2024
  */
 
@@ -58,5 +58,7 @@ public class DiaDaSemana {
             default:
                 System.out.println("Erro: < Valor inválido. >\n");
         }
+
+        input.close();
     }
 }
