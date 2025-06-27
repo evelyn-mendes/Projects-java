@@ -10,7 +10,7 @@ import java.util.Scanner;
  * <h4>Language: Java </h4>
  * 
  * @author Evelyn Mendes
- * @version 1.1
+ * @version 1.2
  * @since 21/09/2024
  */
 
@@ -24,7 +24,7 @@ public class Fatorial {
         System.out.print(">> Fatorial de: ");
         int num = input.nextInt();
 
-        int fatorial = 1;
+        long fatorial = 1;
 
         System.out.print(num + "! = ");
 
