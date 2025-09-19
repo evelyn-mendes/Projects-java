@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * <h1> Fatorial </h1>
  * 
- * <p>É um programa que armazena um número e imprime o seu fatorial.</p>
+ * <p>Programa que armazena um número e imprime o seu fatorial.</p>
  * 
  * <h4>Language: Java </h4>
  * 
