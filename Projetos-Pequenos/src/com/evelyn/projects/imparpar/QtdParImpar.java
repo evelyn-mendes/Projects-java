@@ -9,8 +9,8 @@ import java.util.Scanner;
  * <h4>Language: Java</h4>
  * 
  * @author Evelyn Mendes
- * @version 1.0
- * @since 27/08/2024
+ * @version 1.1
+ * @since 29/09/2025
  */
 
 public class QtdParImpar {
@@ -40,5 +40,7 @@ public class QtdParImpar {
         System.out.println("\n=====================================================================");
         System.out.println(">> Quantidade de pares: " + countPares);
         System.out.println(">> Quantidade de ímpares: " + countImpares);
+
+        input.close();
     }
 }
