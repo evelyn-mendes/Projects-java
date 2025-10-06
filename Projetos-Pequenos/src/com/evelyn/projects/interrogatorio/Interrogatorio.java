@@ -2,6 +2,8 @@ package com.evelyn.projects.interrogatorio;
 
 import java.util.Scanner;
 
+import javax.swing.JOptionPane;
+
 /**
  * <h1> Interrogatório </h1>
  * <p>É um programa que simula um interrogatório armazenando respostas das perguntas, e de acordo com o número de respostas positivas, determina se a pessoa é inocente, suspeita, cúmplice, assassina.</p>
@@ -10,7 +12,7 @@ import java.util.Scanner;
  * 
  * @author Evelyn Mendes
  * @version 1.0
- * @since 17/08/2024
+ * @since 30/09/2025
  */
 
 public class Interrogatorio {
@@ -55,12 +57,10 @@ public class Interrogatorio {
 
         System.out.println("======================================================================");
 
-
-        System.out.print(">> A pessoa é: ");
         switch(count){
 
             case 2:
-                System.out.println("Suspeito(a)\n");
+                JOptionPane.showMessageDialog(null, "<html><span style = 'font-weight=bold; text-align=center;'>Suspeito</span></html>","A pessoa é:", JOptionPane.INFORMATION_MESSAGE);
                 break;
 
             case 3:
@@ -75,5 +75,6 @@ public class Interrogatorio {
             default:
                 System.out.println("Inocente\n");
         }
+        input.close();
     }
 }
