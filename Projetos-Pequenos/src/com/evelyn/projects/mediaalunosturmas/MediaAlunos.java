@@ -5,13 +5,13 @@ import java.util.Scanner;
 /**
  * <h1> Média de Alunos por Turma </h1>
  * 
- * <p> É um programa que recebe N quantidade de turmas e imprime a média de alunos por turma. </p>
+ * <p> É um programa que recebe N quantidade de turmas e N quantidade de alunos por turma, não podendendo ultrapassar de 40 alunos por turma. E, após, imprime a média de alunos por turma. </p>
  * 
  * <h4>Language: Java </h4>
  * 
  * @author Evelyn Mendes
- * @version 1.1
- * @since 21/09/2024
+ * @version 1.2
+ * @since 06/10/2025
  * 
  */
 
