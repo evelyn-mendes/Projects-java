@@ -5,7 +5,7 @@ import java.util.Scanner;
 /** 
  * <h1> Média Idade </h1>
  * 
- * <p> É um programa que recebe N idades de alunos, e imprime a média de idade da sala, e diz se a sala é jovem, adulta ou idosa, baseada na média. </p>
+ * <p>É um programa que recebe N idades de alunos, e imprime a média de idade da sala, e diz se a sala é jovem, adulta ou idosa, baseada na média das idades. </p>
  * 
  * <h4>Language: Java </h4>
  * 
