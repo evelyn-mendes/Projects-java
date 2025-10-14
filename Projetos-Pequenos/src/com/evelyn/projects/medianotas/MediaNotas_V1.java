@@ -1,8 +1,9 @@
-/*
- * Author: Evelyn
- * Date: 16/07/2024
- * Language: Java
- * Description: Programa para ler a quantidade de notas, às notas digitadas pelo usuário e, em seguida, calcula a média aritmética das notas
+/**
+ * <h1>Média das notas</h1>
+ * <p> O programa lê N quantidade de notas e, em seguida, calcula a média aritmética das notas. </p>
+ * @author Evelyn Mendes
+ * @since 14/10/2025
+ * @version 1.1
  */
 
 package com.evelyn.projects.medianotas;
@@ -33,8 +34,8 @@ public class MediaNotas_V1{
       media = (double)sum/(count-1);
 
       System.out.println("===============================================\n");
-      System.out.println("A média das notas é: |" + media + "|\n");
+      System.out.printf("A média das notas é: %.2f\n",media);
 
-      
+      input.close();
     }
 }
