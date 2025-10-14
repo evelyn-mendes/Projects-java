@@ -1,3 +1,6 @@
+package com.evelyn.projects.medianotas;
+import java.util.Scanner;
+
 /**
  * <h1>Média das notas</h1>
  * <p> O programa lê N quantidade de notas e, em seguida, calcula a média aritmética das notas. </p>
@@ -5,9 +8,6 @@
  * @since 14/10/2025
  * @version 1.1
  */
-
-package com.evelyn.projects.medianotas;
-import java.util.Scanner;
 
 public class MediaNotas_V1{
 
