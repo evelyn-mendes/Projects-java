@@ -1,13 +1,14 @@
-/*
-* Author: Evelyn
-* Date: 22/07/2024
-* Language: Java
-* Description: É um programa que armazena duas notas, e calcula sua média aritmética, e após diz se o aluno foi aprovado ou reprovado
-*/
-
 package com.evelyn.projects.medianotas;
 
 import java.util.Scanner;
+
+/**
+ * <h1>Notas de desempenho baseado na média do aluno</h1>
+ * <p> É um programa que armazena duas notas, calcula sua média aritmética e, após, diz se o aluno foi aprovado ou reprovado. </p>
+ * @author Evelyn Mendes
+ * @since 14/10/2025
+ * @version 1.1
+ */
 
 public class MediaNotas_V2{
 
@@ -55,5 +56,7 @@ public class MediaNotas_V2{
         } else {
             System.out.println(">> REPROVADO!\n");
         }
+
+        input.close();
     }
 }
