@@ -1,13 +1,15 @@
-/*
-* Author: Evelyn
-* Language: Java
-* Date: 19/07/2024
-* Description: É um programa que armazena uma certa quantidade de preços de produtos, escolhidos pelo usuário, e imprime qual ele deve comprar, se baseando no menor preço dentre os preços
-*/
-
 package com.evelyn.projects.menorpreco;
 
 import java.util.Scanner;
+
+/**
+ * <h1>Indicação de produto com menor preço</h1>
+ * <p>É um programa que armazena N quantidade de preços de produtos, escolhidos pelo usuário, e imprime qual ele deve comprar, se baseando no menor preço.</p>
+ * Language: Java
+ * @author Evelyn Mendes 
+ * @since 14/10/2025
+ * @version 1.1
+*/
 
 public class ProdutoMenorPreco {
     
@@ -21,15 +23,14 @@ public class ProdutoMenorPreco {
         int numProdutos = input.nextInt();
     
         double[] preco = new double[numProdutos];
-        double menor = 0;
+        double menor = Double.MAX_VALUE;
         int idNumero = 0;
         
+        System.out.println();
         for(int c = 0; c < preco.length; c++){
 
             System.out.print(">> Digite o preço do " + (c+1) + "º produto: ");
             preco[c] = input.nextDouble();
-
-            menor = preco[0];
             
             if (menor > preco[c]){
                 menor = preco[c];
@@ -46,5 +47,7 @@ public class ProdutoMenorPreco {
         }
 
         System.out.println("\n>> O produto que você deve comprar é o produto |" + idNumero + "| com preço de: R$" + menor + "\n");
+
+        input.close();
     }
 }
