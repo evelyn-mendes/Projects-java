@@ -1,9 +1,9 @@
-# ☕ Arithmetic Avarage (Média Aritmética)
+# ☕ Performance Evaluation (Avaliação de Desempenho)
 
 <br>
 
 ## 📖 Sobre
-A aplicação armazena uma quantidade de notas e, em seguida, calcula a média aritmética e imprime na tela. Foi feita apenas utilizando a `linguagem java` e a IDE `vscode`.
+A aplicação realiza o cálculo da média aritmética do aluno e imprime na tela o desempenho do aluno indo de A até E, com base no resultado da média. Foi feita apenas utilizando a `linguagem java` e a IDE `vscode`.
 
 <br>
 
@@ -39,11 +39,9 @@ Você não precisa apenas utilizar o Visual Studio Code, você pode utilizar out
 No workspace contém duas pastas por padrão, onde:
 
 - `src`: a pasta para manter os aquivos.
-- `lib`: a pasta para manter as dependências.
+- `bin`: a pasta onde os arquivos compilados são gerados por padrão.
 
-Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
-
-> Se você quer customizar a pasta, abra `.vscode/settings.json` e atualize as configurações relacionadas lá
+> Se você quer customizar a pasta, abra `.vscode/settings.json` e atualize as configurações relacionadas lá.
 
 ## ⚠️ Problema Encontrado
 
